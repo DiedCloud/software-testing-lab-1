@@ -1,0 +1,10 @@
+testName,input,expected,tolerance
+cos of 0,0,1,1e-2
+cos of PI/6,"0.52","0.866",1e-2
+cos of PI/4,"0.785","0.7",1e-2
+cos of PI/3,"1.047","0.5",1e-2
+cos of PI/2,"1.57",0,1e-2
+cos of 2*PI/3,"2.09","-0.5",1e-2
+cos of 3*PI/4,"2.356","-0.7",1e-2
+cos of 5*PI/6,"2.618","-0.866",1e-2
+cos of PI,"3.14",-1,1e-2
